@@ -1,0 +1,16 @@
+.color{
+  float: left;
+  width: 200px;
+  height: 50px;
+  margin: 5px;
+  color: black;
+}
+.green{
+  background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
